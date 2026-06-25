@@ -2,7 +2,7 @@
   <a href="https://jackhric.com"><img src="https://img.shields.io/badge/Portfolio-jackhric.com-CC5500?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hi@jackhric.com"><img src="https://img.shields.io/badge/Email-hi@jackhric.com-CC5500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
+ 
 
 
 
